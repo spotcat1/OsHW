@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Round_Roubin", "Round_Roubin\Round_Roubin.csproj", "{20FBFB72-7780-4773-921C-D11616761306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FBFB72-7780-4773-921C-D11616761306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FBFB72-7780-4773-921C-D11616761306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FBFB72-7780-4773-921C-D11616761306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FBFB72-7780-4773-921C-D11616761306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7717535-C54B-47A0-AA8A-11D3F43B12A1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\Round_Roubin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\Round_Roubin.AssemblyInfoInputs.cache
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\Round_Roubin.AssemblyInfo.cs
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\Round_Roubin.csproj.CoreCompileInputs.cache
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\bin\Debug\net7.0\Round_Roubin.exe
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\bin\Debug\net7.0\Round_Roubin.deps.json
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\bin\Debug\net7.0\Round_Roubin.runtimeconfig.json
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\bin\Debug\net7.0\Round_Roubin.dll
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\bin\Debug\net7.0\Round_Roubin.pdb
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\Round_Roubin.dll
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\refint\Round_Roubin.dll
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\Round_Roubin.pdb
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\Round_Roubin.genruntimeconfig.cache
+C:\Users\Mahan_Owji\source\repos\Round_Roubin\Round_Roubin\obj\Debug\net7.0\ref\Round_Roubin.dll
